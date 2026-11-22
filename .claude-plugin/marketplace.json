@@ -1,0 +1,22 @@
+{
+  "name": "aejn-plugins",
+  "owner": {
+    "name": "aejn Studio",
+    "url": "https://aejnstudio.com"
+  },
+  "metadata": {
+    "description": "Plugins by aejn Studio for FiveM development and decision making."
+  },
+  "plugins": [
+    {
+      "name": "aejn-fivem-dev",
+      "source": "./plugins/aejn-fivem-dev",
+      "description": "Field-tested FiveM and GTA V development guidance: MLOs, maps, textures, clothing, vehicles, QBCore scripts, NUI and crash debugging."
+    },
+    {
+      "name": "aejn-council",
+      "source": "./plugins/aejn-council",
+      "description": "Put an idea or decision to four independent AI advisors and a separate judge, and get one clear verdict."
+    }
+  ]
+}

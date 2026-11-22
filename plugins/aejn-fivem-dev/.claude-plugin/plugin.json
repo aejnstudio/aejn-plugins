@@ -1,0 +1,23 @@
+{
+  "name": "aejn-fivem-dev",
+  "displayName": "aejn FiveM Dev",
+  "version": "1.0.0",
+  "description": "Field-tested FiveM and GTA V development guidance: MLOs, maps, textures, clothing, vehicles, QBCore scripts, NUI and crash debugging.",
+  "author": {
+    "name": "aejn Studio",
+    "url": "https://aejnstudio.com"
+  },
+  "homepage": "https://aejnstudio.com",
+  "repository": "https://github.com/aejnstudio/aejn-plugins",
+  "license": "MIT",
+  "keywords": [
+    "fivem",
+    "gta5",
+    "qbcore",
+    "mlo",
+    "codewalker",
+    "lua"
+  ],
+  "supportUrl": "https://github.com/aejnstudio/aejn-plugins/issues",
+  "privacyPolicyUrl": "https://github.com/aejnstudio/aejn-plugins/blob/main/plugins/aejn-fivem-dev/PRIVACY.md"
+}

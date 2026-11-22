@@ -1,0 +1,21 @@
+{
+  "name": "aejn-council",
+  "displayName": "aejn Council",
+  "version": "1.0.0",
+  "description": "Put an idea or decision to four independent AI advisors and a separate judge, and get one clear verdict.",
+  "author": {
+    "name": "aejn Studio",
+    "url": "https://aejnstudio.com"
+  },
+  "homepage": "https://aejnstudio.com",
+  "repository": "https://github.com/aejnstudio/aejn-plugins",
+  "license": "MIT",
+  "keywords": [
+    "decisions",
+    "strategy",
+    "second-opinion",
+    "advisors"
+  ],
+  "supportUrl": "https://github.com/aejnstudio/aejn-plugins/issues",
+  "privacyPolicyUrl": "https://github.com/aejnstudio/aejn-plugins/blob/main/plugins/aejn-council/PRIVACY.md"
+}
